@@ -6,7 +6,7 @@ the orginal Vyper smart contract code.
 
 Currently the Swaps pallet is closely coupled to the home-baked
 Fungible pallet (also in this repository) although that will
-probably change over time when an obvious standard for Substrate assets emerges.
+probably change over time when a standard for Substrate assets emerges.
 
 ## Tests
 
